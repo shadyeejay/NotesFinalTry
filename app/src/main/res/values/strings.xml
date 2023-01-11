@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NotesFinalTry</string>
+    <string name="Loading">Store Note</string>
+    <string name="NewNote">New Note</string>
+    <string name="Sort">Sort By</string>
+    <string name="DeleteSelected">Delete Selected</string>
+    <string name="deleteall">Delete All</string>
+    <string name="searchnotes">Search Notes</string>
+    <string name="moreoptions">More Options</string>
+    <string name="search">Search</string>
+    <string name="addnote">Add Note</string>
+    <string name="backbutton">Back Button</string>
+    <string name="deletenote">Delete Note</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="sortby">Sort By</string>
+    <string name="oldest">Oldest</string>
+    <string name="newest">Newest</string>
+    <string name="delete">Delete?</string>
+    <string name="deleteMessage">Selected notes will be deleted</string>
+    <string name="deleteConfirm">Delete</string>
+    <string name="deleteCancel">Cancel</string>
+</resources>
